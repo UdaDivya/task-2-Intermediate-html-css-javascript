@@ -13,3 +13,5 @@ Built a responsive web page using HTML, CSS, and JavaScript to understand struct
 
 OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2a1ae5c5-cb34-467b-9e4a-92215a0c79de" />
+
